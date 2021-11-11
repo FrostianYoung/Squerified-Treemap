@@ -1,0 +1,8971 @@
+{
+  "name": "籍贯",
+  "children": [
+    {
+      "name": "万全",
+      "children": [
+        {
+          "name": "宣府",
+          "children": [
+            {
+              "name": "前卫左所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宣府前卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "不明",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 349
+            }
+          ]
+        },
+        {
+          "name": "义勇中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广武卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "彭城卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "抚山卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "燕山右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "荣德县",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "辽阳盖州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "镇西卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "云南",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "临安卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "临安府",
+          "children": [
+            {
+              "name": "宁州",
+              "value": 3
+            },
+            {
+              "name": "建水州",
+              "value": 2
+            },
+            {
+              "name": "石屏州",
+              "value": 1
+            },
+            {
+              "name": "蒙自县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "云南府",
+          "children": [
+            {
+              "name": "昆明县",
+              "value": 2
+            },
+            {
+              "name": "晋宁州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "前卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "大理卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "大理府",
+          "children": [
+            {
+              "name": "太和县",
+              "value": 24
+            },
+            {
+              "name": "邓川州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太理府",
+          "children": [
+            {
+              "name": "太和县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "姚安府",
+          "children": [
+            {
+              "name": "姚州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "安宁州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "嵩明州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "永昌卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "永昌府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "沾益州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "澄江府",
+          "children": [
+            {
+              "name": "河阳县",
+              "value": 1
+            },
+            {
+              "name": "河阴县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "鹤庆府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "剑川州",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "交址",
+      "children": [
+        {
+          "name": "交址府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "多翼县",
+              "value": 1
+            },
+            {
+              "name": "扶宁县",
+              "value": 1
+            },
+            {
+              "name": "清威县",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "交阯",
+      "children": [
+        {
+          "name": "北江府",
+          "children": [
+            {
+              "name": "武宁州",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "北平",
+      "children": [
+        {
+          "name": "保安州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "保定府",
+          "children": [
+            {
+              "name": "容城县",
+              "value": 1
+            },
+            {
+              "name": "易州",
+              "value": 1
+            },
+            {
+              "name": "蠡州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "北平府",
+          "children": [
+            {
+              "name": "霸州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "大名府",
+          "children": [
+            {
+              "name": "南乐县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "真定府",
+          "children": [
+            {
+              "name": "元氏县",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "四川",
+      "children": [
+        {
+          "name": "保宁千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "保宁府",
+          "children": [
+            {
+              "name": "剑州",
+              "value": 7
+            },
+            {
+              "name": "劔州",
+              "value": 1
+            },
+            {
+              "name": "南部县",
+              "value": 6
+            },
+            {
+              "name": "巴县",
+              "value": 6
+            },
+            {
+              "name": "巴州",
+              "value": 1
+            },
+            {
+              "name": "苍溪县",
+              "value": 4
+            },
+            {
+              "name": "通江县",
+              "value": 1
+            },
+            {
+              "name": "阆中县",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "卭州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "叙南卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "叙州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "南溪县",
+              "value": 7
+            },
+            {
+              "name": "宜宾县",
+              "value": 28
+            },
+            {
+              "name": "富顺县",
+              "value": 62
+            },
+            {
+              "name": "珙县",
+              "value": 2
+            },
+            {
+              "name": "长宁县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "嘉定州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 13
+            },
+            {
+              "name": "夹江县",
+              "value": 5
+            },
+            {
+              "name": "威远县",
+              "value": 3
+            },
+            {
+              "name": "峨眉县",
+              "value": 2
+            },
+            {
+              "name": "洪雅县",
+              "value": 3
+            },
+            {
+              "name": "犍为县",
+              "value": 4
+            },
+            {
+              "name": "荣县",
+              "value": 6
+            },
+            {
+              "name": "莆江县",
+              "value": 2
+            },
+            {
+              "name": "邛县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "嘉定府",
+          "children": [
+            {
+              "name": "夹江县",
+              "value": 1
+            },
+            {
+              "name": "峨眉县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "夔州府",
+          "children": [
+            {
+              "name": "万县",
+              "value": 1
+            },
+            {
+              "name": "东乡县",
+              "value": 1
+            },
+            {
+              "name": "云阳县",
+              "value": 2
+            },
+            {
+              "name": "大宁县",
+              "value": 1
+            },
+            {
+              "name": "巫山县",
+              "value": 1
+            },
+            {
+              "name": "开县",
+              "value": 1
+            },
+            {
+              "name": "新宁县",
+              "value": 1
+            },
+            {
+              "name": "梁山县",
+              "value": 2
+            },
+            {
+              "name": "达县",
+              "value": 2
+            },
+            {
+              "name": "达州",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "宁川卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广安守御千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "成都中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "成都右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "成都后卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "新都驿",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "成都左护卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "成都左护卫中所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "成都府",
+          "children": [
+            {
+              "name": "井研县",
+              "value": 6
+            },
+            {
+              "name": "仁寿县",
+              "value": 6
+            },
+            {
+              "name": "内江县",
+              "value": 81
+            },
+            {
+              "name": "华阳县",
+              "value": 6
+            },
+            {
+              "name": "双流县",
+              "value": 5
+            },
+            {
+              "name": "安县",
+              "value": 1
+            },
+            {
+              "name": "崇庆州",
+              "value": 7
+            },
+            {
+              "name": "彭县",
+              "value": 4
+            },
+            {
+              "name": "德阳县",
+              "value": 2
+            },
+            {
+              "name": "成都县",
+              "value": 13
+            },
+            {
+              "name": "新繁县",
+              "value": 1
+            },
+            {
+              "name": "新都县",
+              "value": 7
+            },
+            {
+              "name": "汉川",
+              "value": 1
+            },
+            {
+              "name": "汉州",
+              "value": 9
+            },
+            {
+              "name": "汶州",
+              "value": 1
+            },
+            {
+              "name": "温江县",
+              "value": 7
+            },
+            {
+              "name": "灌县",
+              "value": 1
+            },
+            {
+              "name": "简县",
+              "value": 2
+            },
+            {
+              "name": "简州",
+              "value": 2
+            },
+            {
+              "name": "绵州",
+              "value": 11
+            },
+            {
+              "name": "贵阳县",
+              "value": 1
+            },
+            {
+              "name": "资县",
+              "value": 14
+            },
+            {
+              "name": "资阳县",
+              "value": 4
+            },
+            {
+              "name": "重庆州",
+              "value": 1
+            },
+            {
+              "name": "金堂县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "永宁宣抚司",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "泸州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 31
+            },
+            {
+              "name": "合江县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "潼川州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 9
+            },
+            {
+              "name": "中江县",
+              "value": 4
+            },
+            {
+              "name": "乐至县",
+              "value": 1
+            },
+            {
+              "name": "安岳县",
+              "value": 8
+            },
+            {
+              "name": "射洪县",
+              "value": 4
+            },
+            {
+              "name": "蓬溪县",
+              "value": 5
+            },
+            {
+              "name": "遂宁县",
+              "value": 18
+            }
+          ]
+        },
+        {
+          "name": "潼川府",
+          "children": [
+            {
+              "name": "射洪县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "眉州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 22
+            },
+            {
+              "name": "丹棱县",
+              "value": 1
+            },
+            {
+              "name": "彭山县",
+              "value": 2
+            },
+            {
+              "name": "青神县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "绵州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "虁州府",
+          "children": [
+            {
+              "name": "巫山县",
+              "value": 1
+            },
+            {
+              "name": "达县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "重庆卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "重庆府",
+          "children": [
+            {
+              "name": "合州",
+              "value": 41
+            },
+            {
+              "name": "吴寿县",
+              "value": 1
+            },
+            {
+              "name": "垫江县",
+              "value": 1
+            },
+            {
+              "name": "大足县",
+              "value": 4
+            },
+            {
+              "name": "安居县",
+              "value": 4
+            },
+            {
+              "name": "定远县",
+              "value": 2
+            },
+            {
+              "name": "巴县",
+              "value": 64
+            },
+            {
+              "name": "志州",
+              "value": 1
+            },
+            {
+              "name": "忠州",
+              "value": 16
+            },
+            {
+              "name": "永川县",
+              "value": 8
+            },
+            {
+              "name": "江律县",
+              "value": 2
+            },
+            {
+              "name": "江津县",
+              "value": 13
+            },
+            {
+              "name": "涪州",
+              "value": 16
+            },
+            {
+              "name": "綦江县",
+              "value": 2
+            },
+            {
+              "name": "荣昌县",
+              "value": 6
+            },
+            {
+              "name": "铜梁县",
+              "value": 3
+            },
+            {
+              "name": "长寿县",
+              "value": 16
+            }
+          ]
+        },
+        {
+          "name": "雅州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "顺庆府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "南充县",
+              "value": 50
+            },
+            {
+              "name": "南𠑽县",
+              "value": 1
+            },
+            {
+              "name": "嘉定县",
+              "value": 1
+            },
+            {
+              "name": "岳池县",
+              "value": 1
+            },
+            {
+              "name": "广安州",
+              "value": 24
+            },
+            {
+              "name": "渠县",
+              "value": 1
+            },
+            {
+              "name": "营山县",
+              "value": 2
+            },
+            {
+              "name": "蓬州",
+              "value": 1
+            },
+            {
+              "name": "西充县",
+              "value": 7
+            },
+            {
+              "name": "邻水县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "马湖府",
+          "children": [
+            {
+              "name": "平夷长官司",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "在京卫所",
+      "children": [
+        {
+          "name": "武功中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "武功左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "金吾右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "锦衣卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            },
+            {
+              "name": "镇抚司",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "骁骑右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "大宁",
+      "children": [
+        {
+          "name": "中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "中卫后所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "中屯卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "保定中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "保定右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "茂山卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "山东",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "东平州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "东平府",
+          "children": [
+            {
+              "name": "东阿县",
+              "value": 4
+            },
+            {
+              "name": "阳谷县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "东昌府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "丘县",
+              "value": 1
+            },
+            {
+              "name": "临清卫",
+              "value": 1
+            },
+            {
+              "name": "临清县",
+              "value": 6
+            },
+            {
+              "name": "临清州",
+              "value": 22
+            },
+            {
+              "name": "冠县",
+              "value": 10
+            },
+            {
+              "name": "博平县",
+              "value": 5
+            },
+            {
+              "name": "唐邑县",
+              "value": 1
+            },
+            {
+              "name": "堂巴县",
+              "value": 1
+            },
+            {
+              "name": "堂邑县",
+              "value": 9
+            },
+            {
+              "name": "夏津县",
+              "value": 3
+            },
+            {
+              "name": "平山卫",
+              "value": 1
+            },
+            {
+              "name": "恩县",
+              "value": 2
+            },
+            {
+              "name": "愽平县",
+              "value": 1
+            },
+            {
+              "name": "朝城县",
+              "value": 2
+            },
+            {
+              "name": "武城县",
+              "value": 4
+            },
+            {
+              "name": "清平县",
+              "value": 3
+            },
+            {
+              "name": "濮州",
+              "value": 16
+            },
+            {
+              "name": "聊城县",
+              "value": 8
+            },
+            {
+              "name": "茌平县",
+              "value": 6
+            },
+            {
+              "name": "荏平县",
+              "value": 2
+            },
+            {
+              "name": "莘县",
+              "value": 6
+            },
+            {
+              "name": "馆陶县",
+              "value": 3
+            },
+            {
+              "name": "高县",
+              "value": 1
+            },
+            {
+              "name": "高唐州",
+              "value": 26
+            }
+          ]
+        },
+        {
+          "name": "兖州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "东平县",
+              "value": 3
+            },
+            {
+              "name": "东平州",
+              "value": 41
+            },
+            {
+              "name": "单城县",
+              "value": 11
+            },
+            {
+              "name": "嘉祥县",
+              "value": 1
+            },
+            {
+              "name": "城武县",
+              "value": 2
+            },
+            {
+              "name": "城武线",
+              "value": 1
+            },
+            {
+              "name": "宁阳县",
+              "value": 7
+            },
+            {
+              "name": "寿张县",
+              "value": 2
+            },
+            {
+              "name": "峄县",
+              "value": 3
+            },
+            {
+              "name": "巨野县",
+              "value": 3
+            },
+            {
+              "name": "平州",
+              "value": 1
+            },
+            {
+              "name": "平阴县",
+              "value": 3
+            },
+            {
+              "name": "曲阜县",
+              "value": 4
+            },
+            {
+              "name": "曹州",
+              "value": 27
+            },
+            {
+              "name": "来平州",
+              "value": 1
+            },
+            {
+              "name": "汶上县",
+              "value": 3
+            },
+            {
+              "name": "沂州",
+              "value": 9
+            },
+            {
+              "name": "泗水县",
+              "value": 1
+            },
+            {
+              "name": "济宁州",
+              "value": 33
+            },
+            {
+              "name": "滋阳县",
+              "value": 6
+            },
+            {
+              "name": "滕县",
+              "value": 11
+            },
+            {
+              "name": "邹县",
+              "value": 1
+            },
+            {
+              "name": "郓城县",
+              "value": 1
+            },
+            {
+              "name": "金乡县",
+              "value": 3
+            },
+            {
+              "name": "鱼台县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "太原府",
+          "children": [
+            {
+              "name": "榆次县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "平山卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "平度州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "潍县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "德州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "德州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "暨州府",
+          "children": [
+            {
+              "name": "宁海州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "曹州",
+          "children": [
+            {
+              "name": "曹县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "曹州府",
+          "children": [
+            {
+              "name": "城武县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "武定州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "济南卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "济南府",
+          "children": [
+            {
+              "name": "临邑县",
+              "value": 9
+            },
+            {
+              "name": "乐陵县",
+              "value": 2
+            },
+            {
+              "name": "历城县",
+              "value": 38
+            },
+            {
+              "name": "商河县",
+              "value": 1
+            },
+            {
+              "name": "平原县",
+              "value": 2
+            },
+            {
+              "name": "德州",
+              "value": 35
+            },
+            {
+              "name": "德州左卫",
+              "value": 1
+            },
+            {
+              "name": "德平县",
+              "value": 3
+            },
+            {
+              "name": "新城县",
+              "value": 15
+            },
+            {
+              "name": "枣州",
+              "value": 1
+            },
+            {
+              "name": "武定州",
+              "value": 22
+            },
+            {
+              "name": "沾化县",
+              "value": 1
+            },
+            {
+              "name": "泰安州",
+              "value": 5
+            },
+            {
+              "name": "济东县",
+              "value": 1
+            },
+            {
+              "name": "济阳县",
+              "value": 8
+            },
+            {
+              "name": "海丰县",
+              "value": 2
+            },
+            {
+              "name": "淄川县",
+              "value": 13
+            },
+            {
+              "name": "滨州",
+              "value": 35
+            },
+            {
+              "name": "禹城县",
+              "value": 4
+            },
+            {
+              "name": "章丘县",
+              "value": 20
+            },
+            {
+              "name": "肥城县",
+              "value": 4
+            },
+            {
+              "name": "莱芜县",
+              "value": 1
+            },
+            {
+              "name": "邹平县",
+              "value": 5
+            },
+            {
+              "name": "长山县",
+              "value": 5
+            },
+            {
+              "name": "长清县",
+              "value": 13
+            },
+            {
+              "name": "阳信县",
+              "value": 4
+            },
+            {
+              "name": "青城县",
+              "value": 7
+            },
+            {
+              "name": "青浦县",
+              "value": 1
+            },
+            {
+              "name": "齐东县",
+              "value": 6
+            },
+            {
+              "name": "齐河县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "滨州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "潞安府",
+          "children": [
+            {
+              "name": "长治县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "濮州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "登州府",
+          "children": [
+            {
+              "name": "宁海县",
+              "value": 2
+            },
+            {
+              "name": "宁海州",
+              "value": 2
+            },
+            {
+              "name": "招远县",
+              "value": 6
+            },
+            {
+              "name": "文山县",
+              "value": 1
+            },
+            {
+              "name": "文登县",
+              "value": 6
+            },
+            {
+              "name": "栖霞县",
+              "value": 4
+            },
+            {
+              "name": "福山县",
+              "value": 5
+            },
+            {
+              "name": "莱阳县",
+              "value": 17
+            },
+            {
+              "name": "菜阳县",
+              "value": 1
+            },
+            {
+              "name": "蓬莱县",
+              "value": 6
+            },
+            {
+              "name": "黄县",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "胶州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "莒州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "莱州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "即墨县",
+              "value": 7
+            },
+            {
+              "name": "平度州",
+              "value": 16
+            },
+            {
+              "name": "掖县",
+              "value": 29
+            },
+            {
+              "name": "昌邑县",
+              "value": 5
+            },
+            {
+              "name": "潍县",
+              "value": 6
+            },
+            {
+              "name": "胶州",
+              "value": 20
+            }
+          ]
+        },
+        {
+          "name": "菜州府",
+          "children": [
+            {
+              "name": "掖县",
+              "value": 1
+            },
+            {
+              "name": "胶州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "衮州府",
+          "children": [
+            {
+              "name": "东平州",
+              "value": 2
+            },
+            {
+              "name": "济宁州",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "贵州府",
+          "children": [
+            {
+              "name": "宣慰司",
+              "value": 1
+            },
+            {
+              "name": "永宁卫",
+              "value": 2
+            },
+            {
+              "name": "菖州",
+              "value": 1
+            },
+            {
+              "name": "贵州",
+              "value": 2
+            },
+            {
+              "name": "赤水卫",
+              "value": 1
+            },
+            {
+              "name": "镇远卫",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "青州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "青州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "临朐县",
+              "value": 5
+            },
+            {
+              "name": "临淄县",
+              "value": 2
+            },
+            {
+              "name": "临胊县",
+              "value": 1
+            },
+            {
+              "name": "乐安县",
+              "value": 8
+            },
+            {
+              "name": "博兴县",
+              "value": 5
+            },
+            {
+              "name": "安丘县",
+              "value": 16
+            },
+            {
+              "name": "寿光县",
+              "value": 19
+            },
+            {
+              "name": "昌乐县",
+              "value": 4
+            },
+            {
+              "name": "沂水县",
+              "value": 2
+            },
+            {
+              "name": "益都县",
+              "value": 38
+            },
+            {
+              "name": "莒州",
+              "value": 7
+            },
+            {
+              "name": "蒙阴县",
+              "value": 12
+            },
+            {
+              "name": "诸城县",
+              "value": 13
+            },
+            {
+              "name": "辽东义州卫",
+              "value": 1
+            },
+            {
+              "name": "高苑县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "青洲府",
+          "children": [
+            {
+              "name": "寿光县",
+              "value": 1
+            },
+            {
+              "name": "日照县",
+              "value": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "山西",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "望成县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "代州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "仪卫司",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "偏头守御千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "兖州府",
+          "children": [
+            {
+              "name": "鱼台县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "台州府",
+          "children": [
+            {
+              "name": "太平县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "大同卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "大同左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "大同府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "大同县",
+              "value": 16
+            },
+            {
+              "name": "应州",
+              "value": 8
+            },
+            {
+              "name": "怀仁县",
+              "value": 5
+            },
+            {
+              "name": "朔州",
+              "value": 1
+            },
+            {
+              "name": "泽州",
+              "value": 1
+            },
+            {
+              "name": "浑源州",
+              "value": 2
+            },
+            {
+              "name": "蔚州",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "太原前卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太原右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太原右卫右所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太原右卫后所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太原府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "交城县",
+              "value": 5
+            },
+            {
+              "name": "代州",
+              "value": 22
+            },
+            {
+              "name": "太原县",
+              "value": 4
+            },
+            {
+              "name": "太谷县",
+              "value": 4
+            },
+            {
+              "name": "孟县",
+              "value": 2
+            },
+            {
+              "name": "寿阳县",
+              "value": 2
+            },
+            {
+              "name": "岢岚州",
+              "value": 4
+            },
+            {
+              "name": "崞县",
+              "value": 1
+            },
+            {
+              "name": "平定州",
+              "value": 23
+            },
+            {
+              "name": "徐沟县",
+              "value": 2
+            },
+            {
+              "name": "忻州",
+              "value": 13
+            },
+            {
+              "name": "抚平定州",
+              "value": 1
+            },
+            {
+              "name": "文水县",
+              "value": 5
+            },
+            {
+              "name": "曲阳县",
+              "value": 1
+            },
+            {
+              "name": "榆次县",
+              "value": 11
+            },
+            {
+              "name": "永宁州",
+              "value": 3
+            },
+            {
+              "name": "河曲县",
+              "value": 2
+            },
+            {
+              "name": "清源县",
+              "value": 6
+            },
+            {
+              "name": "盂县",
+              "value": 5
+            },
+            {
+              "name": "石州",
+              "value": 20
+            },
+            {
+              "name": "祁县",
+              "value": 6
+            },
+            {
+              "name": "车定州",
+              "value": 1
+            },
+            {
+              "name": "阳曲县",
+              "value": 40
+            }
+          ]
+        },
+        {
+          "name": "安东中屯卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "平定州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "平阳府",
+          "children": [
+            {
+              "name": "万泉县",
+              "value": 5
+            },
+            {
+              "name": "临汾县",
+              "value": 26
+            },
+            {
+              "name": "乡宁县",
+              "value": 2
+            },
+            {
+              "name": "吉州",
+              "value": 3
+            },
+            {
+              "name": "和顺县",
+              "value": 2
+            },
+            {
+              "name": "夏县",
+              "value": 2
+            },
+            {
+              "name": "太平县",
+              "value": 4
+            },
+            {
+              "name": "安邑县",
+              "value": 10
+            },
+            {
+              "name": "平陆县",
+              "value": 2
+            },
+            {
+              "name": "曲沃县",
+              "value": 14
+            },
+            {
+              "name": "沁水县",
+              "value": 1
+            },
+            {
+              "name": "河津县",
+              "value": 1
+            },
+            {
+              "name": "洪洞县",
+              "value": 14
+            },
+            {
+              "name": "浮山县",
+              "value": 1
+            },
+            {
+              "name": "猗氏县",
+              "value": 4
+            },
+            {
+              "name": "稷山县",
+              "value": 3
+            },
+            {
+              "name": "绛州",
+              "value": 20
+            },
+            {
+              "name": "翼城县",
+              "value": 5
+            },
+            {
+              "name": "芮城县",
+              "value": 1
+            },
+            {
+              "name": "蒲州",
+              "value": 46
+            },
+            {
+              "name": "襄陵县",
+              "value": 6
+            },
+            {
+              "name": "解州",
+              "value": 40
+            },
+            {
+              "name": "觧州",
+              "value": 4
+            },
+            {
+              "name": "赵城县",
+              "value": 3
+            },
+            {
+              "name": "赵珹县",
+              "value": 1
+            },
+            {
+              "name": "闻喜县",
+              "value": 1
+            },
+            {
+              "name": "阳城县",
+              "value": 1
+            },
+            {
+              "name": "霍州",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "应州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "忻州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "振武卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "朔州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "壸关县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "汾州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 11
+            },
+            {
+              "name": "孝义县",
+              "value": 9
+            },
+            {
+              "name": "平遥县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "汾洲府",
+          "children": [
+            {
+              "name": "临晋县",
+              "value": 1
+            },
+            {
+              "name": "介休县",
+              "value": 2
+            },
+            {
+              "name": "广灵县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "沁州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            },
+            {
+              "name": "守御千户所",
+              "value": 1
+            },
+            {
+              "name": "武乡县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "泽州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 26
+            },
+            {
+              "name": "沁水县",
+              "value": 12
+            },
+            {
+              "name": "灵川县",
+              "value": 2
+            },
+            {
+              "name": "阳城县",
+              "value": 18
+            },
+            {
+              "name": "陵川县",
+              "value": 5
+            },
+            {
+              "name": "高平县",
+              "value": 14
+            }
+          ]
+        },
+        {
+          "name": "浑源州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潞安府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "壶关县",
+              "value": 1
+            },
+            {
+              "name": "屯留县",
+              "value": 7
+            },
+            {
+              "name": "襄垣县",
+              "value": 3
+            },
+            {
+              "name": "长子县",
+              "value": 3
+            },
+            {
+              "name": "长治县",
+              "value": 19
+            },
+            {
+              "name": "陵川县",
+              "value": 1
+            },
+            {
+              "name": "黎城县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潞州卫",
+          "children": [
+            {
+              "name": "左所",
+              "value": 1
+            },
+            {
+              "name": "磁州守御千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潞州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 6
+            },
+            {
+              "name": "壶关县",
+              "value": 4
+            },
+            {
+              "name": "屯留县",
+              "value": 2
+            },
+            {
+              "name": "潞城县",
+              "value": 3
+            },
+            {
+              "name": "襄垣县",
+              "value": 5
+            },
+            {
+              "name": "长子县",
+              "value": 1
+            },
+            {
+              "name": "黎城县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "石州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "平阳安邑县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "绛州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "蒲州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "蔚州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "临县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "行",
+          "children": [
+            {
+              "name": "天城卫",
+              "value": 1
+            },
+            {
+              "name": "马邑县",
+              "value": 1
+            },
+            {
+              "name": "马邑守御千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "辽州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            },
+            {
+              "name": "榆林县",
+              "value": 1
+            },
+            {
+              "name": "榆社县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "镇武卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "隰州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "平燕",
+      "children": [
+        {
+          "name": "北平府",
+          "children": [
+            {
+              "name": "永清县",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "广东",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "南雄府",
+          "children": [
+            {
+              "name": "保昌县",
+              "value": 2
+            },
+            {
+              "name": "始兴县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广东府",
+          "children": [
+            {
+              "name": "东莞县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "广州府",
+          "children": [
+            {
+              "name": "三水县",
+              "value": 2
+            },
+            {
+              "name": "东莞县",
+              "value": 39
+            },
+            {
+              "name": "东菀县",
+              "value": 2
+            },
+            {
+              "name": "从化县",
+              "value": 5
+            },
+            {
+              "name": "南海县",
+              "value": 86
+            },
+            {
+              "name": "右卫",
+              "value": 1
+            },
+            {
+              "name": "后卫",
+              "value": 1
+            },
+            {
+              "name": "增城县",
+              "value": 5
+            },
+            {
+              "name": "新会县",
+              "value": 19
+            },
+            {
+              "name": "新安县",
+              "value": 1
+            },
+            {
+              "name": "清远县",
+              "value": 2
+            },
+            {
+              "name": "番禺县",
+              "value": 46
+            },
+            {
+              "name": "连州",
+              "value": 1
+            },
+            {
+              "name": "顺德县",
+              "value": 53
+            },
+            {
+              "name": "香山县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "廉州府",
+          "children": [
+            {
+              "name": "合浦县",
+              "value": 2
+            },
+            {
+              "name": "石康县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "归安",
+          "children": [
+            {
+              "name": "归安",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "惠州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "中千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "惠州府",
+          "children": [
+            {
+              "name": "博罗县",
+              "value": 12
+            },
+            {
+              "name": "归善县",
+              "value": 8
+            },
+            {
+              "name": "河源县",
+              "value": 1
+            },
+            {
+              "name": "海丰县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "新会守御千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "海南卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潮州卫",
+          "children": [
+            {
+              "name": "程乡守御千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潮州府",
+          "children": [
+            {
+              "name": "大埔县",
+              "value": 3
+            },
+            {
+              "name": "揭阳县",
+              "value": 19
+            },
+            {
+              "name": "海阳县",
+              "value": 35
+            },
+            {
+              "name": "潮阳县",
+              "value": 20
+            },
+            {
+              "name": "潮阳县　",
+              "value": 1
+            },
+            {
+              "name": "澄海县",
+              "value": 3
+            },
+            {
+              "name": "程乡县",
+              "value": 2
+            },
+            {
+              "name": "饶平县",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "琼州府",
+          "children": [
+            {
+              "name": "吴川县",
+              "value": 1
+            },
+            {
+              "name": "定安县",
+              "value": 2
+            },
+            {
+              "name": "崖州",
+              "value": 1
+            },
+            {
+              "name": "文昌县",
+              "value": 5
+            },
+            {
+              "name": "琼山县",
+              "value": 18
+            }
+          ]
+        },
+        {
+          "name": "肇庆府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "四会县",
+              "value": 7
+            },
+            {
+              "name": "德庆州",
+              "value": 1
+            },
+            {
+              "name": "恩平县",
+              "value": 1
+            },
+            {
+              "name": "阳江县",
+              "value": 1
+            },
+            {
+              "name": "高明县",
+              "value": 1
+            },
+            {
+              "name": "高要县",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "雷州府",
+          "children": [
+            {
+              "name": "徐闻县",
+              "value": 1
+            },
+            {
+              "name": "海康县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "韶州府",
+          "children": [
+            {
+              "name": "乐昌县",
+              "value": 1
+            },
+            {
+              "name": "英德县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "高州府",
+          "children": [
+            {
+              "name": "代州",
+              "value": 1
+            },
+            {
+              "name": "信宜县",
+              "value": 1
+            },
+            {
+              "name": "化州",
+              "value": 2
+            },
+            {
+              "name": "电白县",
+              "value": 1
+            },
+            {
+              "name": "茂名县",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "广西",
+      "children": [
+        {
+          "name": "南宁府",
+          "children": [
+            {
+              "name": "宣化县",
+              "value": 1
+            },
+            {
+              "name": "横州",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "太平府",
+          "children": [
+            {
+              "name": "崇善县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "平乐府",
+          "children": [
+            {
+              "name": "平乐县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "庆远卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "庆远府",
+          "children": [
+            {
+              "name": "宜山县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "护卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "柳州卫",
+          "children": [
+            {
+              "name": "融县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "柳州府",
+          "children": [
+            {
+              "name": "宾州",
+              "value": 1
+            },
+            {
+              "name": "柳城县",
+              "value": 1
+            },
+            {
+              "name": "柳州",
+              "value": 1
+            },
+            {
+              "name": "融县",
+              "value": 4
+            },
+            {
+              "name": "马平县",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "桂林中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "桂林右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "桂林府",
+          "children": [
+            {
+              "name": "临桂县",
+              "value": 15
+            },
+            {
+              "name": "义宁县",
+              "value": 1
+            },
+            {
+              "name": "全州",
+              "value": 16
+            },
+            {
+              "name": "全州府",
+              "value": 1
+            },
+            {
+              "name": "永福县",
+              "value": 1
+            },
+            {
+              "name": "灌阳县",
+              "value": 1
+            },
+            {
+              "name": "灵川县",
+              "value": 2
+            },
+            {
+              "name": "金州",
+              "value": 1
+            },
+            {
+              "name": "阳朔县",
+              "value": 3
+            },
+            {
+              "name": "阳朔县　",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "梧州",
+          "children": [
+            {
+              "name": "守御千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "梧州府",
+          "children": [
+            {
+              "name": "容县",
+              "value": 1
+            },
+            {
+              "name": "怀集县",
+              "value": 1
+            },
+            {
+              "name": "欎林州",
+              "value": 1
+            },
+            {
+              "name": "苍梧县",
+              "value": 5
+            },
+            {
+              "name": "藤县",
+              "value": 2
+            },
+            {
+              "name": "郁林州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "浔州府",
+          "children": [
+            {
+              "name": "平南县",
+              "value": 2
+            },
+            {
+              "name": "桂平县",
+              "value": 2
+            },
+            {
+              "name": "贵县",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "本州岛",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "不明",
+              "value": 4
+            },
+            {
+              "name": "进贤县",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "江西",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "不明",
+              "value": 4
+            },
+            {
+              "name": "进贤县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "临安府",
+          "children": [
+            {
+              "name": "新淦县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "临州府",
+          "children": [
+            {
+              "name": "新昌县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "临江府",
+          "children": [
+            {
+              "name": "峡江县",
+              "value": 4
+            },
+            {
+              "name": "新喻县",
+              "value": 39
+            },
+            {
+              "name": "新淦县",
+              "value": 47
+            },
+            {
+              "name": "清江县",
+              "value": 21
+            }
+          ]
+        },
+        {
+          "name": "九江府",
+          "children": [
+            {
+              "name": "彭泽县",
+              "value": 6
+            },
+            {
+              "name": "德化县",
+              "value": 15
+            },
+            {
+              "name": "德安县",
+              "value": 1
+            },
+            {
+              "name": "湖口县",
+              "value": 10
+            },
+            {
+              "name": "瑞昌县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "南安府",
+          "children": [
+            {
+              "name": "南康县",
+              "value": 2
+            },
+            {
+              "name": "大庾县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "南康府",
+          "children": [
+            {
+              "name": "安义县",
+              "value": 1
+            },
+            {
+              "name": "建昌县",
+              "value": 5
+            },
+            {
+              "name": "星子县",
+              "value": 5
+            },
+            {
+              "name": "都昌县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "南昌府",
+          "children": [
+            {
+              "name": "丰城县",
+              "value": 117
+            },
+            {
+              "name": "丰城县　",
+              "value": 2
+            },
+            {
+              "name": "华新县",
+              "value": 1
+            },
+            {
+              "name": "南昌县",
+              "value": 144
+            },
+            {
+              "name": "奉新县",
+              "value": 11
+            },
+            {
+              "name": "宁县",
+              "value": 3
+            },
+            {
+              "name": "宁州",
+              "value": 2
+            },
+            {
+              "name": "宁远县",
+              "value": 1
+            },
+            {
+              "name": "寍州",
+              "value": 1
+            },
+            {
+              "name": "新建县",
+              "value": 36
+            },
+            {
+              "name": "武宁县",
+              "value": 2
+            },
+            {
+              "name": "费城县",
+              "value": 1
+            },
+            {
+              "name": "进贒县",
+              "value": 2
+            },
+            {
+              "name": "进贤县",
+              "value": 47
+            },
+            {
+              "name": "都昌县",
+              "value": 1
+            },
+            {
+              "name": "靖安县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "吉安府",
+          "children": [
+            {
+              "name": "万安县",
+              "value": 36
+            },
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "卢陵县",
+              "value": 5
+            },
+            {
+              "name": "吉水县",
+              "value": 99
+            },
+            {
+              "name": "吉永县",
+              "value": 2
+            },
+            {
+              "name": "奉和县",
+              "value": 1
+            },
+            {
+              "name": "安福县",
+              "value": 145
+            },
+            {
+              "name": "安远县",
+              "value": 1
+            },
+            {
+              "name": "庐陵县",
+              "value": 54
+            },
+            {
+              "name": "永丰县",
+              "value": 36
+            },
+            {
+              "name": "永新县",
+              "value": 34
+            },
+            {
+              "name": "永曹县",
+              "value": 1
+            },
+            {
+              "name": "泰和县",
+              "value": 90
+            },
+            {
+              "name": "泰安县",
+              "value": 1
+            },
+            {
+              "name": "龙泉县",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "广信府",
+          "children": [
+            {
+              "name": "上犹县",
+              "value": 1
+            },
+            {
+              "name": "上饶县",
+              "value": 20
+            },
+            {
+              "name": "不明",
+              "value": 3
+            },
+            {
+              "name": "弋阳县",
+              "value": 18
+            },
+            {
+              "name": "永丰县",
+              "value": 16
+            },
+            {
+              "name": "玉山县",
+              "value": 8
+            },
+            {
+              "name": "贵溪县",
+              "value": 45
+            },
+            {
+              "name": "铅山县",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "广州府",
+          "children": [
+            {
+              "name": "铅山县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "康定府",
+          "children": [
+            {
+              "name": "建昌县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "建昌府",
+          "children": [
+            {
+              "name": "南丰县",
+              "value": 14
+            },
+            {
+              "name": "南城县",
+              "value": 27
+            },
+            {
+              "name": "广昌县",
+              "value": 5
+            },
+            {
+              "name": "新城县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "抚州府",
+          "children": [
+            {
+              "name": "东乡县",
+              "value": 4
+            },
+            {
+              "name": "临川县",
+              "value": 68
+            },
+            {
+              "name": "乐安县",
+              "value": 18
+            },
+            {
+              "name": "宜黄县",
+              "value": 1
+            },
+            {
+              "name": "崇仁县",
+              "value": 14
+            },
+            {
+              "name": "金溪县",
+              "value": 35
+            }
+          ]
+        },
+        {
+          "name": "泽州",
+          "children": [
+            {
+              "name": "高平县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "瑞州府",
+          "children": [
+            {
+              "name": "上高县",
+              "value": 6
+            },
+            {
+              "name": "大臾县",
+              "value": 1
+            },
+            {
+              "name": "新昌县",
+              "value": 7
+            },
+            {
+              "name": "高安县",
+              "value": 23
+            }
+          ]
+        },
+        {
+          "name": "眉州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "袁州府",
+          "children": [
+            {
+              "name": "万载县",
+              "value": 2
+            },
+            {
+              "name": "分宜县",
+              "value": 5
+            },
+            {
+              "name": "宜春县",
+              "value": 15
+            },
+            {
+              "name": "萍乡县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "赣州府",
+          "children": [
+            {
+              "name": "信丰县",
+              "value": 5
+            },
+            {
+              "name": "兴国县",
+              "value": 3
+            },
+            {
+              "name": "宁都县",
+              "value": 7
+            },
+            {
+              "name": "赣县",
+              "value": 5
+            },
+            {
+              "name": "雩都县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "陇江府",
+          "children": [
+            {
+              "name": "清江县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "饶州",
+          "children": [
+            {
+              "name": "千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "饶州府",
+          "children": [
+            {
+              "name": "万年县",
+              "value": 1
+            },
+            {
+              "name": "乐平县",
+              "value": 21
+            },
+            {
+              "name": "余干县",
+              "value": 15
+            },
+            {
+              "name": "安仁县",
+              "value": 15
+            },
+            {
+              "name": "德兴县",
+              "value": 13
+            },
+            {
+              "name": "浮梁县",
+              "value": 38
+            },
+            {
+              "name": "鄱阳县",
+              "value": 29
+            }
+          ]
+        },
+        {
+          "name": "饶洲府",
+          "children": [
+            {
+              "name": "鄱阳县",
+              "value": 7
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "河南",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            },
+            {
+              "name": "武宁县",
+              "value": 1
+            },
+            {
+              "name": "西城县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "信阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "信阳州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "封丘县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "南阳中护卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "南阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "南阳府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "临潼县",
+              "value": 1
+            },
+            {
+              "name": "内乡县",
+              "value": 2
+            },
+            {
+              "name": "南召县",
+              "value": 1
+            },
+            {
+              "name": "南阳县",
+              "value": 7
+            },
+            {
+              "name": "叶县",
+              "value": 1
+            },
+            {
+              "name": "唐县",
+              "value": 5
+            },
+            {
+              "name": "新野县",
+              "value": 4
+            },
+            {
+              "name": "汝川县",
+              "value": 1
+            },
+            {
+              "name": "汝州",
+              "value": 5
+            },
+            {
+              "name": "汲县",
+              "value": 2
+            },
+            {
+              "name": "泌阳县",
+              "value": 5
+            },
+            {
+              "name": "洛阳县",
+              "value": 5
+            },
+            {
+              "name": "裕州",
+              "value": 15
+            },
+            {
+              "name": "邓州",
+              "value": 10
+            },
+            {
+              "name": "镇平县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "卫辉千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "卫辉府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "守御千户所",
+              "value": 1
+            },
+            {
+              "name": "新乡县",
+              "value": 5
+            },
+            {
+              "name": "新城县",
+              "value": 1
+            },
+            {
+              "name": "汲县",
+              "value": 16
+            },
+            {
+              "name": "淇县",
+              "value": 3
+            },
+            {
+              "name": "胙城县",
+              "value": 3
+            },
+            {
+              "name": "获嘉县",
+              "value": 5
+            },
+            {
+              "name": "辉县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "宣武卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "开封府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "中牟县",
+              "value": 6
+            },
+            {
+              "name": "仪封县",
+              "value": 13
+            },
+            {
+              "name": "兰阳县",
+              "value": 10
+            },
+            {
+              "name": "原武县",
+              "value": 5
+            },
+            {
+              "name": "太康县",
+              "value": 12
+            },
+            {
+              "name": "封丘县",
+              "value": 3
+            },
+            {
+              "name": "尉氏县",
+              "value": 2
+            },
+            {
+              "name": "广陵县",
+              "value": 1
+            },
+            {
+              "name": "延津县",
+              "value": 8
+            },
+            {
+              "name": "归德州",
+              "value": 12
+            },
+            {
+              "name": "扶沟县",
+              "value": 12
+            },
+            {
+              "name": "杞县",
+              "value": 27
+            },
+            {
+              "name": "洧川县",
+              "value": 3
+            },
+            {
+              "name": "睢州",
+              "value": 8
+            },
+            {
+              "name": "祀县",
+              "value": 1
+            },
+            {
+              "name": "祥府县",
+              "value": 1
+            },
+            {
+              "name": "祥符县",
+              "value": 67
+            },
+            {
+              "name": "禹州",
+              "value": 6
+            },
+            {
+              "name": "襄城县",
+              "value": 3
+            },
+            {
+              "name": "许州",
+              "value": 39
+            },
+            {
+              "name": "通许县",
+              "value": 7
+            },
+            {
+              "name": "邬陵县",
+              "value": 1
+            },
+            {
+              "name": "郑州",
+              "value": 15
+            },
+            {
+              "name": "鄢陵县",
+              "value": 7
+            },
+            {
+              "name": "钓州",
+              "value": 1
+            },
+            {
+              "name": "钧州",
+              "value": 24
+            },
+            {
+              "name": "阳武县",
+              "value": 4
+            },
+            {
+              "name": "陈州",
+              "value": 14
+            },
+            {
+              "name": "陈州卫",
+              "value": 2
+            },
+            {
+              "name": "陈留县",
+              "value": 7
+            },
+            {
+              "name": "雎州",
+              "value": 5
+            },
+            {
+              "name": "项城县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "开州府",
+          "children": [
+            {
+              "name": "扶沟县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "弘农卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "归德州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "归德府",
+          "children": [
+            {
+              "name": "商丘县",
+              "value": 5
+            },
+            {
+              "name": "啇丘县",
+              "value": 2
+            },
+            {
+              "name": "夏邑县",
+              "value": 6
+            },
+            {
+              "name": "宁陵县",
+              "value": 2
+            },
+            {
+              "name": "寍陵县",
+              "value": 1
+            },
+            {
+              "name": "徐州",
+              "value": 1
+            },
+            {
+              "name": "永城县",
+              "value": 2
+            },
+            {
+              "name": "睢州",
+              "value": 9
+            },
+            {
+              "name": "考城县",
+              "value": 1
+            },
+            {
+              "name": "虞城县",
+              "value": 2
+            },
+            {
+              "name": "鹿邑县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "彰德卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "彰德府",
+          "children": [
+            {
+              "name": "临漳县",
+              "value": 4
+            },
+            {
+              "name": "宁阳县",
+              "value": 1
+            },
+            {
+              "name": "安阳县",
+              "value": 28
+            },
+            {
+              "name": "林县",
+              "value": 3
+            },
+            {
+              "name": "武安县",
+              "value": 1
+            },
+            {
+              "name": "汤阴县",
+              "value": 5
+            },
+            {
+              "name": "磁州",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "name": "怀庆卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "守御卫辉千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "怀庆府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "仪卫司旗手所",
+              "value": 1
+            },
+            {
+              "name": "修武县",
+              "value": 3
+            },
+            {
+              "name": "孟县",
+              "value": 1
+            },
+            {
+              "name": "怀庆卫",
+              "value": 1
+            },
+            {
+              "name": "武陟县",
+              "value": 2
+            },
+            {
+              "name": "河内县",
+              "value": 9
+            },
+            {
+              "name": "温县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "怀德府",
+          "children": [
+            {
+              "name": "武陟县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "汝宁府",
+          "children": [
+            {
+              "name": "上蔡县",
+              "value": 8
+            },
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "仪卫司",
+              "value": 1
+            },
+            {
+              "name": "信阳卫",
+              "value": 1
+            },
+            {
+              "name": "信阳县",
+              "value": 2
+            },
+            {
+              "name": "信阳州",
+              "value": 19
+            },
+            {
+              "name": "光山县",
+              "value": 11
+            },
+            {
+              "name": "光州",
+              "value": 61
+            },
+            {
+              "name": "商城县",
+              "value": 2
+            },
+            {
+              "name": "固史县",
+              "value": 2
+            },
+            {
+              "name": "固始县",
+              "value": 5
+            },
+            {
+              "name": "守御千户所",
+              "value": 1
+            },
+            {
+              "name": "息县",
+              "value": 4
+            },
+            {
+              "name": "新蔡县",
+              "value": 7
+            },
+            {
+              "name": "汝阳县",
+              "value": 17
+            },
+            {
+              "name": "确山县",
+              "value": 5
+            },
+            {
+              "name": "罗山县",
+              "value": 6
+            },
+            {
+              "name": "西平县",
+              "value": 7
+            },
+            {
+              "name": "遂平县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "汝州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            },
+            {
+              "name": "宝丰县",
+              "value": 1
+            },
+            {
+              "name": "获嘉县",
+              "value": 1
+            },
+            {
+              "name": "郏县",
+              "value": 5
+            },
+            {
+              "name": "鲁山县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "河南卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "河南府",
+          "children": [
+            {
+              "name": "偃师县",
+              "value": 3
+            },
+            {
+              "name": "卢氏县",
+              "value": 1
+            },
+            {
+              "name": "孟津县",
+              "value": 8
+            },
+            {
+              "name": "宜阳县",
+              "value": 3
+            },
+            {
+              "name": "嵩县",
+              "value": 8
+            },
+            {
+              "name": "巩县",
+              "value": 4
+            },
+            {
+              "name": "新安县",
+              "value": 5
+            },
+            {
+              "name": "永宁县",
+              "value": 1
+            },
+            {
+              "name": "永寍县",
+              "value": 1
+            },
+            {
+              "name": "沔池县",
+              "value": 3
+            },
+            {
+              "name": "洛阳县",
+              "value": 44
+            },
+            {
+              "name": "洛阳府",
+              "value": 1
+            },
+            {
+              "name": "灵宝县",
+              "value": 2
+            },
+            {
+              "name": "灵宾县",
+              "value": 1
+            },
+            {
+              "name": "登封县",
+              "value": 3
+            },
+            {
+              "name": "陕州",
+              "value": 16
+            },
+            {
+              "name": "陜州",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "睢阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "裕州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "许州",
+          "children": [
+            {
+              "name": "郾城县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "阳卫",
+          "children": [
+            {
+              "name": "守御邓州千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "陈州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "中所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "雎阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "颍州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "颕川卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "浙江",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "严州府",
+          "children": [
+            {
+              "name": "分水县",
+              "value": 2
+            },
+            {
+              "name": "寿昌县",
+              "value": 3
+            },
+            {
+              "name": "建德县",
+              "value": 10
+            },
+            {
+              "name": "桐庐县",
+              "value": 8
+            },
+            {
+              "name": "淳安县",
+              "value": 36
+            },
+            {
+              "name": "遂安县",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "台州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "临海县",
+              "value": 75
+            },
+            {
+              "name": "仙居县",
+              "value": 2
+            },
+            {
+              "name": "僊居县",
+              "value": 10
+            },
+            {
+              "name": "大台县",
+              "value": 1
+            },
+            {
+              "name": "天台县",
+              "value": 19
+            },
+            {
+              "name": "太平县",
+              "value": 11
+            },
+            {
+              "name": "宁海县",
+              "value": 5
+            },
+            {
+              "name": "黄岩县",
+              "value": 35
+            }
+          ]
+        },
+        {
+          "name": "嘉兴府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "嘉兴县",
+              "value": 65
+            },
+            {
+              "name": "嘉善县",
+              "value": 23
+            },
+            {
+              "name": "崇德县",
+              "value": 13
+            },
+            {
+              "name": "平湖县",
+              "value": 51
+            },
+            {
+              "name": "抚平湖县",
+              "value": 1
+            },
+            {
+              "name": "桐乡县",
+              "value": 12
+            },
+            {
+              "name": "海塩县",
+              "value": 1
+            },
+            {
+              "name": "海盐县",
+              "value": 38
+            },
+            {
+              "name": "秀水县",
+              "value": 54
+            }
+          ]
+        },
+        {
+          "name": "处州",
+          "children": [
+            {
+              "name": "景宁县",
+              "value": 3
+            },
+            {
+              "name": "缙云县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "处州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "丽水县",
+              "value": 18
+            },
+            {
+              "name": "云和县",
+              "value": 1
+            },
+            {
+              "name": "宣平县",
+              "value": 1
+            },
+            {
+              "name": "松阳县",
+              "value": 4
+            },
+            {
+              "name": "缙云县",
+              "value": 15
+            },
+            {
+              "name": "遂安县",
+              "value": 1
+            },
+            {
+              "name": "遂昌县",
+              "value": 11
+            },
+            {
+              "name": "青田县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "宁江府",
+          "children": [
+            {
+              "name": "慈溪县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宁波卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "后千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宁波府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "奉化县",
+              "value": 19
+            },
+            {
+              "name": "定海县",
+              "value": 9
+            },
+            {
+              "name": "慈溪县",
+              "value": 111
+            },
+            {
+              "name": "象山县",
+              "value": 6
+            },
+            {
+              "name": "鄞县",
+              "value": 148
+            }
+          ]
+        },
+        {
+          "name": "寍波府",
+          "children": [
+            {
+              "name": "慈溪县",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "岩州府",
+          "children": [
+            {
+              "name": "嘉兴抚平湖县",
+              "value": 1
+            },
+            {
+              "name": "淳安县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "德安府",
+          "children": [
+            {
+              "name": "宁波县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "明州府",
+          "children": [
+            {
+              "name": "定海县",
+              "value": 1
+            },
+            {
+              "name": "慈溪县",
+              "value": 1
+            },
+            {
+              "name": "鄞县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "杭州",
+          "children": [
+            {
+              "name": "前卫",
+              "value": 3
+            },
+            {
+              "name": "钱塘县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "杭州前卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "杭州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "杭州右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "杭州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "临安县",
+              "value": 12
+            },
+            {
+              "name": "于潜县",
+              "value": 1
+            },
+            {
+              "name": "仁和县",
+              "value": 105
+            },
+            {
+              "name": "余杭县",
+              "value": 8
+            },
+            {
+              "name": "右卫",
+              "value": 3
+            },
+            {
+              "name": "右卫后所",
+              "value": 1
+            },
+            {
+              "name": "富阳县",
+              "value": 4
+            },
+            {
+              "name": "新城县",
+              "value": 2
+            },
+            {
+              "name": "海宁县",
+              "value": 36
+            },
+            {
+              "name": "海寍县",
+              "value": 1
+            },
+            {
+              "name": "钱塘县",
+              "value": 63
+            }
+          ]
+        },
+        {
+          "name": "温州",
+          "children": [
+            {
+              "name": "乐清县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "温州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "乐清县",
+              "value": 11
+            },
+            {
+              "name": "平阳县",
+              "value": 8
+            },
+            {
+              "name": "平阳府",
+              "value": 1
+            },
+            {
+              "name": "永嘉县",
+              "value": 39
+            },
+            {
+              "name": "瑞安县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "湖州府",
+          "children": [
+            {
+              "name": "乌程县",
+              "value": 44
+            },
+            {
+              "name": "吉安州",
+              "value": 1
+            },
+            {
+              "name": "孝丰县",
+              "value": 1
+            },
+            {
+              "name": "安吉州",
+              "value": 6
+            },
+            {
+              "name": "归安县",
+              "value": 38
+            },
+            {
+              "name": "德清县",
+              "value": 28
+            },
+            {
+              "name": "武康县",
+              "value": 3
+            },
+            {
+              "name": "长兴县",
+              "value": 17
+            },
+            {
+              "name": "龙泉县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "知州府",
+          "children": [
+            {
+              "name": "乐清县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "绍兴府",
+          "children": [
+            {
+              "name": "上虞县",
+              "value": 49
+            },
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "会稽县",
+              "value": 74
+            },
+            {
+              "name": "余姚县",
+              "value": 264
+            },
+            {
+              "name": "余杭县",
+              "value": 2
+            },
+            {
+              "name": "姚县",
+              "value": 1
+            },
+            {
+              "name": "山阴县",
+              "value": 105
+            },
+            {
+              "name": "嵊县",
+              "value": 11
+            },
+            {
+              "name": "应州县",
+              "value": 1
+            },
+            {
+              "name": "新昌县",
+              "value": 19
+            },
+            {
+              "name": "萧山县",
+              "value": 29
+            },
+            {
+              "name": "虞县",
+              "value": 1
+            },
+            {
+              "name": "诸暨县",
+              "value": 13
+            }
+          ]
+        },
+        {
+          "name": "衢州",
+          "children": [
+            {
+              "name": "开化县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "衢州府",
+          "children": [
+            {
+              "name": "常山县",
+              "value": 16
+            },
+            {
+              "name": "开化县",
+              "value": 17
+            },
+            {
+              "name": "江山县",
+              "value": 8
+            },
+            {
+              "name": "西安县",
+              "value": 18
+            },
+            {
+              "name": "龙游县",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "name": "金华府",
+          "children": [
+            {
+              "name": "东阳县",
+              "value": 18
+            },
+            {
+              "name": "义乌县",
+              "value": 15
+            },
+            {
+              "name": "兰溪县",
+              "value": 44
+            },
+            {
+              "name": "武义县",
+              "value": 1
+            },
+            {
+              "name": "永康县",
+              "value": 23
+            },
+            {
+              "name": "汤溪县",
+              "value": 4
+            },
+            {
+              "name": "浦江县",
+              "value": 2
+            },
+            {
+              "name": "金华县",
+              "value": 21
+            }
+          ]
+        },
+        {
+          "name": "骁骑右卫",
+          "children": [
+            {
+              "name": "庆元县",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "湖广",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "兴华府",
+          "children": [
+            {
+              "name": "仙游县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "兴都留守司",
+          "children": [
+            {
+              "name": "承天卫",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "夷陵州",
+          "children": [
+            {
+              "name": "宜都县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宁远卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "安陆卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "安陆州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            },
+            {
+              "name": "京山县",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "宝庆府",
+          "children": [
+            {
+              "name": "新化县",
+              "value": 2
+            },
+            {
+              "name": "武冈州",
+              "value": 2
+            },
+            {
+              "name": "邵阳县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "宝应府",
+          "children": [
+            {
+              "name": "邵阳县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "岳州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "岳州府",
+          "children": [
+            {
+              "name": "华容县",
+              "value": 17
+            },
+            {
+              "name": "华密县",
+              "value": 1
+            },
+            {
+              "name": "巴陵县",
+              "value": 19
+            },
+            {
+              "name": "泽州",
+              "value": 1
+            },
+            {
+              "name": "澧州",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "常德卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "常德府",
+          "children": [
+            {
+              "name": "桃源县",
+              "value": 1
+            },
+            {
+              "name": "武陵县",
+              "value": 19
+            },
+            {
+              "name": "龙阳县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "平溪卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "德安守御千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "德安府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "云梦县",
+              "value": 5
+            },
+            {
+              "name": "孝感县",
+              "value": 8
+            },
+            {
+              "name": "安陆县",
+              "value": 3
+            },
+            {
+              "name": "应城县",
+              "value": 12
+            },
+            {
+              "name": "应山县",
+              "value": 1
+            },
+            {
+              "name": "随州",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "承天府",
+          "children": [
+            {
+              "name": "京山县",
+              "value": 11
+            },
+            {
+              "name": "京山线",
+              "value": 1
+            },
+            {
+              "name": "景陵县",
+              "value": 5
+            },
+            {
+              "name": "沔阳卫",
+              "value": 1
+            },
+            {
+              "name": "沔阳州",
+              "value": 14
+            },
+            {
+              "name": "潜江县",
+              "value": 9
+            },
+            {
+              "name": "钟祥县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "显陵卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "武昌左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "武昌府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "兴国州",
+              "value": 17
+            },
+            {
+              "name": "咸宁县",
+              "value": 6
+            },
+            {
+              "name": "咸寍县",
+              "value": 1
+            },
+            {
+              "name": "嘉鱼县",
+              "value": 9
+            },
+            {
+              "name": "大冶县",
+              "value": 3
+            },
+            {
+              "name": "崇阳县",
+              "value": 14
+            },
+            {
+              "name": "武昌卫",
+              "value": 1
+            },
+            {
+              "name": "武昌县",
+              "value": 4
+            },
+            {
+              "name": "江夏县",
+              "value": 24
+            },
+            {
+              "name": "蒲圻县",
+              "value": 22
+            },
+            {
+              "name": "蒲沂县",
+              "value": 1
+            },
+            {
+              "name": "通城县",
+              "value": 1
+            },
+            {
+              "name": "通山县",
+              "value": 2
+            },
+            {
+              "name": "长史司",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "永州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "永州府",
+          "children": [
+            {
+              "name": "祁阳县",
+              "value": 7
+            },
+            {
+              "name": "道州",
+              "value": 16
+            },
+            {
+              "name": "零陵县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "汉阳府",
+          "children": [
+            {
+              "name": "汉川县",
+              "value": 4
+            },
+            {
+              "name": "汉阳县",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "沔阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "中千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "沔阳州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 6
+            },
+            {
+              "name": "景陵县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "淮安府",
+          "children": [
+            {
+              "name": "桃源县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "溪州府",
+          "children": [
+            {
+              "name": "衡山县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "澧州所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "瞿塘卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "茶陵州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "荆州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "荆州左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "荆州府",
+          "children": [
+            {
+              "name": "公安县",
+              "value": 16
+            },
+            {
+              "name": "右卫",
+              "value": 2
+            },
+            {
+              "name": "夷陵州",
+              "value": 6
+            },
+            {
+              "name": "松滋县",
+              "value": 4
+            },
+            {
+              "name": "江陵县",
+              "value": 28
+            },
+            {
+              "name": "潜江县",
+              "value": 3
+            },
+            {
+              "name": "监利县",
+              "value": 6
+            },
+            {
+              "name": "石守县",
+              "value": 1
+            },
+            {
+              "name": "石首县",
+              "value": 24
+            },
+            {
+              "name": "荆门州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "蕲州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "衡州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "衡州府",
+          "children": [
+            {
+              "name": "安仁县",
+              "value": 1
+            },
+            {
+              "name": "桂阳县",
+              "value": 4
+            },
+            {
+              "name": "桂阳州",
+              "value": 6
+            },
+            {
+              "name": "耒阳县",
+              "value": 5
+            },
+            {
+              "name": "衡山县",
+              "value": 2
+            },
+            {
+              "name": "衡阳县",
+              "value": 11
+            },
+            {
+              "name": "酃县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "襄阳仪卫司",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "襄阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "襄阳府",
+          "children": [
+            {
+              "name": "光化县",
+              "value": 1
+            },
+            {
+              "name": "南漳县",
+              "value": 3
+            },
+            {
+              "name": "均州",
+              "value": 1
+            },
+            {
+              "name": "宜城县",
+              "value": 1
+            },
+            {
+              "name": "枣阳县",
+              "value": 6
+            },
+            {
+              "name": "襄阳县",
+              "value": 11
+            },
+            {
+              "name": "谷城县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "襄阳护卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "辰州",
+          "children": [
+            {
+              "name": "沅州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "辰州府",
+          "children": [
+            {
+              "name": "卢溪县",
+              "value": 4
+            },
+            {
+              "name": "沅州",
+              "value": 2
+            },
+            {
+              "name": "沅陵县",
+              "value": 7
+            },
+            {
+              "name": "溆浦县",
+              "value": 1
+            },
+            {
+              "name": "黔阳县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "辰洲卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "郧阳府",
+          "children": [
+            {
+              "name": "房县",
+              "value": 1
+            },
+            {
+              "name": "竹溪县",
+              "value": 1
+            },
+            {
+              "name": "郧县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "郴州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            },
+            {
+              "name": "兴宁县",
+              "value": 6
+            },
+            {
+              "name": "宜章县",
+              "value": 2
+            },
+            {
+              "name": "桂杨县",
+              "value": 1
+            },
+            {
+              "name": "桂阳县",
+              "value": 8
+            },
+            {
+              "name": "秀才乡",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "郴州府",
+          "children": [
+            {
+              "name": "永兴县",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "长宁府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "长沙卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "长沙府",
+          "children": [
+            {
+              "name": "仪卫司",
+              "value": 1
+            },
+            {
+              "name": "善化县",
+              "value": 1
+            },
+            {
+              "name": "宁乡县",
+              "value": 2
+            },
+            {
+              "name": "安化县",
+              "value": 1
+            },
+            {
+              "name": "攸县",
+              "value": 11
+            },
+            {
+              "name": "浏阳县",
+              "value": 2
+            },
+            {
+              "name": "湘乡县",
+              "value": 2
+            },
+            {
+              "name": "湘潭县",
+              "value": 8
+            },
+            {
+              "name": "湘阴县",
+              "value": 12
+            },
+            {
+              "name": "益阳县",
+              "value": 4
+            },
+            {
+              "name": "茶陵县",
+              "value": 3
+            },
+            {
+              "name": "茶陵州",
+              "value": 6
+            },
+            {
+              "name": "醴陵县",
+              "value": 4
+            },
+            {
+              "name": "长沙县",
+              "value": 10
+            }
+          ]
+        },
+        {
+          "name": "黄州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "黄州府",
+          "children": [
+            {
+              "name": "广济县",
+              "value": 2
+            },
+            {
+              "name": "罗田县",
+              "value": 3
+            },
+            {
+              "name": "蕲州",
+              "value": 25
+            },
+            {
+              "name": "蕲水县",
+              "value": 18
+            },
+            {
+              "name": "麻城县",
+              "value": 55
+            },
+            {
+              "name": "黄冈县",
+              "value": 34
+            },
+            {
+              "name": "黄梅县",
+              "value": 3
+            },
+            {
+              "name": "黄陂县",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "黄洲府",
+          "children": [
+            {
+              "name": "蕲州",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "直隶",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 6
+            },
+            {
+              "name": "仕丘县",
+              "value": 1
+            },
+            {
+              "name": "长州县",
+              "value": 1
+            },
+            {
+              "name": "靖江县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "保定府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "博野县",
+              "value": 8
+            },
+            {
+              "name": "唐县",
+              "value": 6
+            },
+            {
+              "name": "安州",
+              "value": 17
+            },
+            {
+              "name": "安肃县",
+              "value": 15
+            },
+            {
+              "name": "完县",
+              "value": 7
+            },
+            {
+              "name": "定兴县",
+              "value": 14
+            },
+            {
+              "name": "容城县",
+              "value": 6
+            },
+            {
+              "name": "庆都县",
+              "value": 1
+            },
+            {
+              "name": "愽野县",
+              "value": 2
+            },
+            {
+              "name": "新城县",
+              "value": 12
+            },
+            {
+              "name": "易州",
+              "value": 13
+            },
+            {
+              "name": "束鹿县",
+              "value": 1
+            },
+            {
+              "name": "涞水县",
+              "value": 3
+            },
+            {
+              "name": "清苑县",
+              "value": 19
+            },
+            {
+              "name": "满城县",
+              "value": 4
+            },
+            {
+              "name": "祁州",
+              "value": 7
+            },
+            {
+              "name": "蠡县",
+              "value": 12
+            },
+            {
+              "name": "雄县",
+              "value": 8
+            },
+            {
+              "name": "高阳县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "兴州",
+          "children": [
+            {
+              "name": "左屯卫",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "冀州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "凤阳府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "临淮县",
+              "value": 9
+            },
+            {
+              "name": "五河县",
+              "value": 3
+            },
+            {
+              "name": "亳州",
+              "value": 7
+            },
+            {
+              "name": "凤阳县",
+              "value": 10
+            },
+            {
+              "name": "定远县",
+              "value": 18
+            },
+            {
+              "name": "宿州",
+              "value": 7
+            },
+            {
+              "name": "寿州",
+              "value": 7
+            },
+            {
+              "name": "怀远县",
+              "value": 5
+            },
+            {
+              "name": "泗州",
+              "value": 7
+            },
+            {
+              "name": "泗州卫",
+              "value": 2
+            },
+            {
+              "name": "灵壁县",
+              "value": 2
+            },
+            {
+              "name": "灵璧县",
+              "value": 1
+            },
+            {
+              "name": "盱眙县",
+              "value": 5
+            },
+            {
+              "name": "虹县",
+              "value": 2
+            },
+            {
+              "name": "颍州",
+              "value": 3
+            },
+            {
+              "name": "颕上县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "华亭",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "南京府",
+          "children": [
+            {
+              "name": "军左卫",
+              "value": 1
+            },
+            {
+              "name": "旗手卫",
+              "value": 1
+            },
+            {
+              "name": "水军右卫",
+              "value": 1
+            },
+            {
+              "name": "江阴卫",
+              "value": 1
+            },
+            {
+              "name": "留守后卫",
+              "value": 1
+            },
+            {
+              "name": "鹰扬卫",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "吴江",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "和州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 7
+            },
+            {
+              "name": "含山县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "嘉定府",
+          "children": [
+            {
+              "name": "嘉定县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "大同中屯卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "大名府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "东明县",
+              "value": 10
+            },
+            {
+              "name": "元城县",
+              "value": 11
+            },
+            {
+              "name": "内黄县",
+              "value": 6
+            },
+            {
+              "name": "南乐县",
+              "value": 5
+            },
+            {
+              "name": "大名县",
+              "value": 6
+            },
+            {
+              "name": "开州",
+              "value": 46
+            },
+            {
+              "name": "浚县",
+              "value": 10
+            },
+            {
+              "name": "清丰县",
+              "value": 1
+            },
+            {
+              "name": "渭县",
+              "value": 1
+            },
+            {
+              "name": "滑县",
+              "value": 9
+            },
+            {
+              "name": "长垣县",
+              "value": 12
+            },
+            {
+              "name": "魏县",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "大河卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "天名府",
+          "children": [
+            {
+              "name": "开州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太仓卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "太仓州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 9
+            }
+          ]
+        },
+        {
+          "name": "太平府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "当涂县",
+              "value": 28
+            },
+            {
+              "name": "当涂县　",
+              "value": 1
+            },
+            {
+              "name": "曲阳县",
+              "value": 1
+            },
+            {
+              "name": "盘昌县",
+              "value": 1
+            },
+            {
+              "name": "繁昌县",
+              "value": 5
+            },
+            {
+              "name": "芜湖县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "宁国府",
+          "children": [
+            {
+              "name": "南陵县",
+              "value": 3
+            },
+            {
+              "name": "大平县",
+              "value": 1
+            },
+            {
+              "name": "太平县",
+              "value": 4
+            },
+            {
+              "name": "宁国县",
+              "value": 4
+            },
+            {
+              "name": "宣城县",
+              "value": 32
+            },
+            {
+              "name": "旌德县",
+              "value": 5
+            },
+            {
+              "name": "泾县",
+              "value": 28
+            }
+          ]
+        },
+        {
+          "name": "安庆卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "安庆府",
+          "children": [
+            {
+              "name": "太湖县",
+              "value": 7
+            },
+            {
+              "name": "宿松县",
+              "value": 3
+            },
+            {
+              "name": "怀宁县",
+              "value": 19
+            },
+            {
+              "name": "望江县",
+              "value": 4
+            },
+            {
+              "name": "桐城县",
+              "value": 34
+            },
+            {
+              "name": "潜山县",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "name": "定州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "寍国府",
+          "children": [
+            {
+              "name": "南陵县",
+              "value": 1
+            },
+            {
+              "name": "旌德县",
+              "value": 1
+            },
+            {
+              "name": "泾县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "寍图府",
+          "children": [
+            {
+              "name": "太平县",
+              "value": 1
+            },
+            {
+              "name": "江苏县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "寿州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "常州",
+          "children": [
+            {
+              "name": "宜兴县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "常州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "宜兴县",
+              "value": 41
+            },
+            {
+              "name": "无锡县",
+              "value": 118
+            },
+            {
+              "name": "武进县",
+              "value": 111
+            },
+            {
+              "name": "江阴县",
+              "value": 42
+            },
+            {
+              "name": "饶阳县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广平府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "威县",
+              "value": 6
+            },
+            {
+              "name": "广平县",
+              "value": 5
+            },
+            {
+              "name": "成安县",
+              "value": 9
+            },
+            {
+              "name": "曲周县",
+              "value": 13
+            },
+            {
+              "name": "永平县",
+              "value": 1
+            },
+            {
+              "name": "永年县",
+              "value": 35
+            },
+            {
+              "name": "清河县",
+              "value": 2
+            },
+            {
+              "name": "肥乡县",
+              "value": 10
+            },
+            {
+              "name": "邯郸县",
+              "value": 8
+            },
+            {
+              "name": "鸡泽县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "广德州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 16
+            },
+            {
+              "name": "建平县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "庐州府",
+          "children": [
+            {
+              "name": "六安州",
+              "value": 10
+            },
+            {
+              "name": "合肥县",
+              "value": 28
+            },
+            {
+              "name": "庐江县",
+              "value": 4
+            },
+            {
+              "name": "无为州",
+              "value": 14
+            },
+            {
+              "name": "舒城县",
+              "value": 10
+            },
+            {
+              "name": "英山县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "庐洲府",
+          "children": [
+            {
+              "name": "六安州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "应元府",
+          "children": [
+            {
+              "name": "上元县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "应天府",
+          "children": [
+            {
+              "name": "上元县",
+              "value": 28
+            },
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "六合县",
+              "value": 4
+            },
+            {
+              "name": "句容县",
+              "value": 28
+            },
+            {
+              "name": "怀庆县",
+              "value": 1
+            },
+            {
+              "name": "江宁县",
+              "value": 23
+            },
+            {
+              "name": "江浦县",
+              "value": 9
+            },
+            {
+              "name": "溧水县",
+              "value": 7
+            },
+            {
+              "name": "溧阳县",
+              "value": 27
+            },
+            {
+              "name": "漂阳县",
+              "value": 2
+            },
+            {
+              "name": "高淳县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "延庆州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "开封府",
+          "children": [
+            {
+              "name": "宿州县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "开州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "海门县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "归德卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "徐州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 8
+            },
+            {
+              "name": "丰县",
+              "value": 1
+            },
+            {
+              "name": "沛县",
+              "value": 4
+            },
+            {
+              "name": "砀山县",
+              "value": 1
+            },
+            {
+              "name": "萧县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "徐州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "德州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "徽州府",
+          "children": [
+            {
+              "name": "休宁县",
+              "value": 31
+            },
+            {
+              "name": "休寍县",
+              "value": 1
+            },
+            {
+              "name": "婺源县",
+              "value": 53
+            },
+            {
+              "name": "歙县",
+              "value": 81
+            },
+            {
+              "name": "祁门县",
+              "value": 32
+            },
+            {
+              "name": "绩溪县",
+              "value": 9
+            },
+            {
+              "name": "黟县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "怀安府",
+          "children": [
+            {
+              "name": "山阳县",
+              "value": 1
+            },
+            {
+              "name": "海州",
+              "value": 1
+            },
+            {
+              "name": "赣榆县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "扬州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            },
+            {
+              "name": "泰州守御千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "扬州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "仪真县",
+              "value": 8
+            },
+            {
+              "name": "兴化县",
+              "value": 5
+            },
+            {
+              "name": "宝应县",
+              "value": 2
+            },
+            {
+              "name": "江都县",
+              "value": 43
+            },
+            {
+              "name": "泰兴县",
+              "value": 12
+            },
+            {
+              "name": "泰州",
+              "value": 29
+            },
+            {
+              "name": "通州",
+              "value": 16
+            },
+            {
+              "name": "高邮州",
+              "value": 26
+            }
+          ]
+        },
+        {
+          "name": "扬洲府",
+          "children": [
+            {
+              "name": "通州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "抚宁卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "无为州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "杨州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "通州",
+              "value": 1
+            },
+            {
+              "name": "高邮州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "松江守御中千户所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "松江府",
+          "children": [
+            {
+              "name": "上海县",
+              "value": 80
+            },
+            {
+              "name": "华亭县",
+              "value": 153
+            }
+          ]
+        },
+        {
+          "name": "永平卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "永平府",
+          "children": [
+            {
+              "name": "卢龙县",
+              "value": 6
+            },
+            {
+              "name": "山海卫",
+              "value": 1
+            },
+            {
+              "name": "庐龙县",
+              "value": 1
+            },
+            {
+              "name": "抚宁县",
+              "value": 3
+            },
+            {
+              "name": "昌黎县",
+              "value": 7
+            },
+            {
+              "name": "栾州",
+              "value": 1
+            },
+            {
+              "name": "滦州",
+              "value": 20
+            },
+            {
+              "name": "迁安县",
+              "value": 11
+            }
+          ]
+        },
+        {
+          "name": "池州府",
+          "children": [
+            {
+              "name": "东流县",
+              "value": 1
+            },
+            {
+              "name": "建德县",
+              "value": 8
+            },
+            {
+              "name": "石埭县",
+              "value": 4
+            },
+            {
+              "name": "石碌县",
+              "value": 1
+            },
+            {
+              "name": "贵池县",
+              "value": 11
+            },
+            {
+              "name": "铜陵县",
+              "value": 4
+            },
+            {
+              "name": "青阳县",
+              "value": 12
+            }
+          ]
+        },
+        {
+          "name": "河间府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "东光县",
+              "value": 3
+            },
+            {
+              "name": "交河县",
+              "value": 8
+            },
+            {
+              "name": "仓州",
+              "value": 1
+            },
+            {
+              "name": "任丘县",
+              "value": 40
+            },
+            {
+              "name": "任县",
+              "value": 1
+            },
+            {
+              "name": "兴济县",
+              "value": 2
+            },
+            {
+              "name": "天津卫",
+              "value": 1
+            },
+            {
+              "name": "天津左卫",
+              "value": 1
+            },
+            {
+              "name": "宁津县",
+              "value": 2
+            },
+            {
+              "name": "故城县",
+              "value": 4
+            },
+            {
+              "name": "景州",
+              "value": 30
+            },
+            {
+              "name": "沧州",
+              "value": 25
+            },
+            {
+              "name": "河间县",
+              "value": 6
+            },
+            {
+              "name": "献县",
+              "value": 12
+            },
+            {
+              "name": "盐城县",
+              "value": 1
+            },
+            {
+              "name": "盐山县",
+              "value": 2
+            },
+            {
+              "name": "肃宁县",
+              "value": 6
+            },
+            {
+              "name": "肃宁州",
+              "value": 1
+            },
+            {
+              "name": "阜城县",
+              "value": 10
+            },
+            {
+              "name": "青县",
+              "value": 5
+            },
+            {
+              "name": "静海县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "泗州",
+          "children": [
+            {
+              "name": "天长县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "泗州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "泰州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "涿鹿中卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "涿鹿卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "涿鹿左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "淮安卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "中左所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "淮安府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "安东县",
+              "value": 4
+            },
+            {
+              "name": "宿迁县",
+              "value": 1
+            },
+            {
+              "name": "山阳县",
+              "value": 28
+            },
+            {
+              "name": "桃源县",
+              "value": 3
+            },
+            {
+              "name": "沐阳县",
+              "value": 4
+            },
+            {
+              "name": "沭阳县",
+              "value": 3
+            },
+            {
+              "name": "海州",
+              "value": 5
+            },
+            {
+              "name": "清河县",
+              "value": 3
+            },
+            {
+              "name": "盐城县",
+              "value": 3
+            },
+            {
+              "name": "纳溪县",
+              "value": 1
+            },
+            {
+              "name": "邳州",
+              "value": 4
+            },
+            {
+              "name": "郫县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "深州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "滁州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 10
+            },
+            {
+              "name": "来安县",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "滁州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "滁州府",
+          "children": [
+            {
+              "name": "全椒县",
+              "value": 7
+            }
+          ]
+        },
+        {
+          "name": "滦州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "潞州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潼关卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "直定府",
+          "children": [
+            {
+              "name": "深州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "真定卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "真定府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "临城县",
+              "value": 2
+            },
+            {
+              "name": "井陉县",
+              "value": 4
+            },
+            {
+              "name": "元氏县",
+              "value": 2
+            },
+            {
+              "name": "冀州",
+              "value": 33
+            },
+            {
+              "name": "定州",
+              "value": 7
+            },
+            {
+              "name": "平山县",
+              "value": 3
+            },
+            {
+              "name": "新河县",
+              "value": 1
+            },
+            {
+              "name": "晋州",
+              "value": 19
+            },
+            {
+              "name": "栢乡县",
+              "value": 1
+            },
+            {
+              "name": "栾城县",
+              "value": 5
+            },
+            {
+              "name": "槁县",
+              "value": 1
+            },
+            {
+              "name": "槁城县",
+              "value": 4
+            },
+            {
+              "name": "武强县",
+              "value": 2
+            },
+            {
+              "name": "武邑县",
+              "value": 1
+            },
+            {
+              "name": "深州",
+              "value": 7
+            },
+            {
+              "name": "灵寿县",
+              "value": 4
+            },
+            {
+              "name": "真定县",
+              "value": 10
+            },
+            {
+              "name": "获鹿县",
+              "value": 5
+            },
+            {
+              "name": "藳城县",
+              "value": 5
+            },
+            {
+              "name": "衡水县",
+              "value": 1
+            },
+            {
+              "name": "赵州",
+              "value": 26
+            }
+          ]
+        },
+        {
+          "name": "舒城",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "苏州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            },
+            {
+              "name": "嘉兴守御千户所",
+              "value": 1
+            },
+            {
+              "name": "守御嘉兴千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "苏州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "吴县",
+              "value": 121
+            },
+            {
+              "name": "吴江县",
+              "value": 66
+            },
+            {
+              "name": "嘉兴县",
+              "value": 1
+            },
+            {
+              "name": "嘉定县",
+              "value": 40
+            },
+            {
+              "name": "嘉定府",
+              "value": 1
+            },
+            {
+              "name": "大仓州",
+              "value": 1
+            },
+            {
+              "name": "太仓州",
+              "value": 28
+            },
+            {
+              "name": "太仓府",
+              "value": 1
+            },
+            {
+              "name": "崇明县",
+              "value": 2
+            },
+            {
+              "name": "巢县",
+              "value": 4
+            },
+            {
+              "name": "常州县",
+              "value": 1
+            },
+            {
+              "name": "常熟县",
+              "value": 119
+            },
+            {
+              "name": "昆山县",
+              "value": 143
+            },
+            {
+              "name": "江阴县",
+              "value": 6
+            },
+            {
+              "name": "长洲县",
+              "value": 115
+            },
+            {
+              "name": "长熟县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "通州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "遵化卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "镇江卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "镇江府",
+          "children": [
+            {
+              "name": "丹徒县",
+              "value": 35
+            },
+            {
+              "name": "丹阳县",
+              "value": 16
+            },
+            {
+              "name": "金坛县",
+              "value": 25
+            }
+          ]
+        },
+        {
+          "name": "镇海卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "隆庆州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "霸州",
+          "children": [
+            {
+              "name": "保定县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "顺天府",
+          "children": [
+            {
+              "name": "三河县",
+              "value": 5
+            },
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "东安县",
+              "value": 15
+            },
+            {
+              "name": "丰润县",
+              "value": 2
+            },
+            {
+              "name": "唐山县",
+              "value": 1
+            },
+            {
+              "name": "固安县",
+              "value": 21
+            },
+            {
+              "name": "大兴",
+              "value": 1
+            },
+            {
+              "name": "大兴县",
+              "value": 31
+            },
+            {
+              "name": "大城县",
+              "value": 1
+            },
+            {
+              "name": "宛平县",
+              "value": 28
+            },
+            {
+              "name": "宝坻县",
+              "value": 4
+            },
+            {
+              "name": "宝坻县　",
+              "value": 1
+            },
+            {
+              "name": "密云县",
+              "value": 5
+            },
+            {
+              "name": "平谷县",
+              "value": 2
+            },
+            {
+              "name": "怀柔乡",
+              "value": 1
+            },
+            {
+              "name": "怀柔县",
+              "value": 3
+            },
+            {
+              "name": "昌平县",
+              "value": 5
+            },
+            {
+              "name": "昌平州",
+              "value": 5
+            },
+            {
+              "name": "永清县",
+              "value": 8
+            },
+            {
+              "name": "永清右卫",
+              "value": 1
+            },
+            {
+              "name": "永清左卫",
+              "value": 1
+            },
+            {
+              "name": "涿州",
+              "value": 19
+            },
+            {
+              "name": "漷县",
+              "value": 1
+            },
+            {
+              "name": "玉田县",
+              "value": 1
+            },
+            {
+              "name": "良乡县",
+              "value": 3
+            },
+            {
+              "name": "蓟州",
+              "value": 22
+            },
+            {
+              "name": "蓟州卫",
+              "value": 2
+            },
+            {
+              "name": "谷县",
+              "value": 1
+            },
+            {
+              "name": "通州",
+              "value": 24
+            },
+            {
+              "name": "遵化县",
+              "value": 2
+            },
+            {
+              "name": "锦衣卫",
+              "value": 1
+            },
+            {
+              "name": "闽安县",
+              "value": 1
+            },
+            {
+              "name": "霸州",
+              "value": 32
+            },
+            {
+              "name": "顺义县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "顺德府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "任县",
+              "value": 7
+            },
+            {
+              "name": "内丘县",
+              "value": 1
+            },
+            {
+              "name": "刑台县",
+              "value": 1
+            },
+            {
+              "name": "南和县",
+              "value": 3
+            },
+            {
+              "name": "唐山县",
+              "value": 3
+            },
+            {
+              "name": "商丘县",
+              "value": 1
+            },
+            {
+              "name": "巨鹿县",
+              "value": 2
+            },
+            {
+              "name": "平乡县",
+              "value": 2
+            },
+            {
+              "name": "广宗县",
+              "value": 1
+            },
+            {
+              "name": "沙河县",
+              "value": 1
+            },
+            {
+              "name": "邢台县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "颕州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "高邮卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "高邮州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 8
+            },
+            {
+              "name": "蒙城县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "𣾢州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "福州",
+      "children": [
+        {
+          "name": "福州右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "福建",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "兴化卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "兴化府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "仙游县",
+              "value": 5
+            },
+            {
+              "name": "圃田县",
+              "value": 1
+            },
+            {
+              "name": "浦田县",
+              "value": 2
+            },
+            {
+              "name": "莆田县",
+              "value": 323
+            },
+            {
+              "name": "迁游县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "延平府",
+          "children": [
+            {
+              "name": "南平县",
+              "value": 9
+            },
+            {
+              "name": "南息县",
+              "value": 1
+            },
+            {
+              "name": "大田县",
+              "value": 1
+            },
+            {
+              "name": "将乐县",
+              "value": 1
+            },
+            {
+              "name": "尤溪县",
+              "value": 3
+            },
+            {
+              "name": "永安县",
+              "value": 3
+            },
+            {
+              "name": "沙县",
+              "value": 2
+            },
+            {
+              "name": "顺昌县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "廷平府",
+          "children": [
+            {
+              "name": "大田县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "建宁左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "建宁府",
+          "children": [
+            {
+              "name": "崇安县",
+              "value": 4
+            },
+            {
+              "name": "建安县",
+              "value": 21
+            },
+            {
+              "name": "建阳县",
+              "value": 3
+            },
+            {
+              "name": "政和县",
+              "value": 1
+            },
+            {
+              "name": "松溪县",
+              "value": 2
+            },
+            {
+              "name": "浦城县",
+              "value": 9
+            },
+            {
+              "name": "瓯宁县",
+              "value": 17
+            }
+          ]
+        },
+        {
+          "name": "晋守卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "汀州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "汀州府",
+          "children": [
+            {
+              "name": "上杭县",
+              "value": 5
+            },
+            {
+              "name": "上林县",
+              "value": 1
+            },
+            {
+              "name": "永定县",
+              "value": 2
+            },
+            {
+              "name": "清流县",
+              "value": 5
+            },
+            {
+              "name": "长乐县",
+              "value": 1
+            },
+            {
+              "name": "长汀县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "汀洲府",
+          "children": [
+            {
+              "name": "永定县",
+              "value": 1
+            },
+            {
+              "name": "清流县",
+              "value": 1
+            },
+            {
+              "name": "长汀县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "泉州",
+          "children": [
+            {
+              "name": "晋江县",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "泉州卫",
+          "children": [
+            {
+              "name": "中千户所",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "泉州府",
+          "children": [
+            {
+              "name": "南安县",
+              "value": 25
+            },
+            {
+              "name": "同安县",
+              "value": 35
+            },
+            {
+              "name": "安溪县",
+              "value": 4
+            },
+            {
+              "name": "德化县",
+              "value": 1
+            },
+            {
+              "name": "惠安县",
+              "value": 23
+            },
+            {
+              "name": "晋江县",
+              "value": 186
+            },
+            {
+              "name": "普江县",
+              "value": 1
+            },
+            {
+              "name": "永春县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "漳州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "漳州府",
+          "children": [
+            {
+              "name": "南靖县",
+              "value": 3
+            },
+            {
+              "name": "平和县",
+              "value": 4
+            },
+            {
+              "name": "海澄县",
+              "value": 6
+            },
+            {
+              "name": "漳平县",
+              "value": 4
+            },
+            {
+              "name": "漳浦县",
+              "value": 61
+            },
+            {
+              "name": "漳蒲县",
+              "value": 1
+            },
+            {
+              "name": "诏安县",
+              "value": 4
+            },
+            {
+              "name": "长泰县",
+              "value": 9
+            },
+            {
+              "name": "龙岩县",
+              "value": 2
+            },
+            {
+              "name": "龙溪县",
+              "value": 48
+            }
+          ]
+        },
+        {
+          "name": "福宁州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            },
+            {
+              "name": "宁德县",
+              "value": 2
+            },
+            {
+              "name": "福安县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "福州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "中卫前所",
+              "value": 1
+            },
+            {
+              "name": "侯官县",
+              "value": 34
+            },
+            {
+              "name": "候官县",
+              "value": 9
+            },
+            {
+              "name": "古田县",
+              "value": 1
+            },
+            {
+              "name": "宁德县",
+              "value": 4
+            },
+            {
+              "name": "怀安县",
+              "value": 32
+            },
+            {
+              "name": "永福县",
+              "value": 4
+            },
+            {
+              "name": "福安县",
+              "value": 2
+            },
+            {
+              "name": "福清县",
+              "value": 58
+            },
+            {
+              "name": "罗源县",
+              "value": 1
+            },
+            {
+              "name": "连江县",
+              "value": 12
+            },
+            {
+              "name": "长乐县",
+              "value": 65
+            },
+            {
+              "name": "闵县",
+              "value": 1
+            },
+            {
+              "name": "闽县",
+              "value": 154
+            },
+            {
+              "name": "闽清县",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "邵武府",
+          "children": [
+            {
+              "name": "建宁县",
+              "value": 4
+            },
+            {
+              "name": "泰宁县",
+              "value": 2
+            },
+            {
+              "name": "邵武县",
+              "value": 8
+            }
+          ]
+        },
+        {
+          "name": "镇海卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            },
+            {
+              "name": "六鳌千户所",
+              "value": 1
+            },
+            {
+              "name": "铜山千户所",
+              "value": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "西川",
+      "children": [
+        {
+          "name": "成都府",
+          "children": [
+            {
+              "name": "内江县",
+              "value": 1
+            },
+            {
+              "name": "华阳县",
+              "value": 2
+            },
+            {
+              "name": "温江县",
+              "value": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "贵州",
+      "children": [
+        {
+          "name": "兴隆卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "平越卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "思南府",
+          "children": [
+            {
+              "name": "婺川县",
+              "value": 1
+            },
+            {
+              "name": "水德司",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "辽东",
+      "children": [
+        {
+          "name": "东宁卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "义州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "定边卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "定辽前卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "定辽左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广宁前屯卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广宁卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "广宁后屯卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "广宁左卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "沈阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "金州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "陕西",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "泾阳县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "临洮府",
+          "children": [
+            {
+              "name": "兰县",
+              "value": 6
+            },
+            {
+              "name": "兰州",
+              "value": 2
+            },
+            {
+              "name": "河州",
+              "value": 1
+            },
+            {
+              "name": "狄道县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "兰州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "凤翔府",
+          "children": [
+            {
+              "name": "凤翔县",
+              "value": 16
+            },
+            {
+              "name": "宝鸡县",
+              "value": 6
+            },
+            {
+              "name": "岐山县",
+              "value": 10
+            },
+            {
+              "name": "扶风县",
+              "value": 2
+            },
+            {
+              "name": "陇州",
+              "value": 5
+            },
+            {
+              "name": "麟游县",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "同州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            },
+            {
+              "name": "白水县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "商州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "太原府",
+          "children": [
+            {
+              "name": "岢岚州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宁夏卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "宁夏左屯卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宁州府",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "宁羌卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "岷州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "巩昌府",
+          "children": [
+            {
+              "name": "会宁县",
+              "value": 2
+            },
+            {
+              "name": "安定县",
+              "value": 8
+            },
+            {
+              "name": "徽州",
+              "value": 1
+            },
+            {
+              "name": "成县",
+              "value": 1
+            },
+            {
+              "name": "泰州",
+              "value": 1
+            },
+            {
+              "name": "秦州",
+              "value": 3
+            },
+            {
+              "name": "通渭县",
+              "value": 2
+            },
+            {
+              "name": "陇西县",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "平凉府",
+          "children": [
+            {
+              "name": "平凉县",
+              "value": 2
+            },
+            {
+              "name": "泾州",
+              "value": 6
+            },
+            {
+              "name": "镇原县",
+              "value": 2
+            },
+            {
+              "name": "隆德县",
+              "value": 1
+            },
+            {
+              "name": "静宁州",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "庆阳卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "庆阳卫右所",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "庆阳府",
+          "children": [
+            {
+              "name": "合水县",
+              "value": 1
+            },
+            {
+              "name": "合阳县",
+              "value": 1
+            },
+            {
+              "name": "宁州",
+              "value": 5
+            },
+            {
+              "name": "安化县",
+              "value": 5
+            },
+            {
+              "name": "环县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "延安卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "延安府",
+          "children": [
+            {
+              "name": "中部县",
+              "value": 1
+            },
+            {
+              "name": "保安县",
+              "value": 4
+            },
+            {
+              "name": "安定县",
+              "value": 1
+            },
+            {
+              "name": "宜川县",
+              "value": 3
+            },
+            {
+              "name": "清涧县",
+              "value": 1
+            },
+            {
+              "name": "甘泉县",
+              "value": 1
+            },
+            {
+              "name": "米脂县",
+              "value": 2
+            },
+            {
+              "name": "绥德州",
+              "value": 13
+            },
+            {
+              "name": "肤施县",
+              "value": 6
+            },
+            {
+              "name": "鄜州",
+              "value": 6
+            }
+          ]
+        },
+        {
+          "name": "开封府",
+          "children": [
+            {
+              "name": "巩昌县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "晋守卫",
+          "children": [
+            {
+              "name": "华阴县",
+              "value": 2
+            },
+            {
+              "name": "澄城县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "梁州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "榆林卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "汉中府",
+          "children": [
+            {
+              "name": "南郑县",
+              "value": 9
+            },
+            {
+              "name": "城固县",
+              "value": 2
+            },
+            {
+              "name": "宁羗卫",
+              "value": 1
+            },
+            {
+              "name": "洋县",
+              "value": 2
+            },
+            {
+              "name": "褒城县",
+              "value": 1
+            },
+            {
+              "name": "金州",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "name": "河州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "军民指挥司",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "泰州卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "潼关卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "秦州",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "绥德卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 3
+            }
+          ]
+        },
+        {
+          "name": "葭州",
+          "children": [
+            {
+              "name": "神木县",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "行",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "永昌卫",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "西宁卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "西安前卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 5
+            }
+          ]
+        },
+        {
+          "name": "西安右卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "西安右护卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        },
+        {
+          "name": "西安后卫",
+          "children": [
+            {
+              "name": "不明",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "name": "西安府",
+          "children": [
+            {
+              "name": "三原县",
+              "value": 18
+            },
+            {
+              "name": "三水县",
+              "value": 1
+            },
+            {
+              "name": "不明",
+              "value": 1
+            },
+            {
+              "name": "临潼县",
+              "value": 8
+            },
+            {
+              "name": "义安县",
+              "value": 1
+            },
+            {
+              "name": "兴平县",
+              "value": 5
+            },
+            {
+              "name": "华州",
+              "value": 46
+            },
+            {
+              "name": "右护卫",
+              "value": 1
+            },
+            {
+              "name": "同州",
+              "value": 37
+            },
+            {
+              "name": "咸宁县",
+              "value": 44
+            },
+            {
+              "name": "咸阳县",
+              "value": 4
+            },
+            {
+              "name": "商州",
+              "value": 3
+            },
+            {
+              "name": "富平县",
+              "value": 1
+            },
+            {
+              "name": "干州",
+              "value": 22
+            },
+            {
+              "name": "朝邑县",
+              "value": 4
+            },
+            {
+              "name": "永寿县",
+              "value": 1
+            },
+            {
+              "name": "泾阳县",
+              "value": 32
+            },
+            {
+              "name": "泾阳府",
+              "value": 1
+            },
+            {
+              "name": "渭南县",
+              "value": 11
+            },
+            {
+              "name": "盩厔县",
+              "value": 14
+            },
+            {
+              "name": "盩屋县",
+              "value": 1
+            },
+            {
+              "name": "耀州",
+              "value": 17
+            },
+            {
+              "name": "芜州",
+              "value": 1
+            },
+            {
+              "name": "范州",
+              "value": 1
+            },
+            {
+              "name": "蒲城县",
+              "value": 3
+            },
+            {
+              "name": "蓝田县",
+              "value": 6
+            },
+            {
+              "name": "邠州",
+              "value": 10
+            },
+            {
+              "name": "鄠县",
+              "value": 1
+            },
+            {
+              "name": "醴泉县",
+              "value": 4
+            },
+            {
+              "name": "长安县",
+              "value": 26
+            },
+            {
+              "name": "韩城县",
+              "value": 4
+            },
+            {
+              "name": "高陵县",
+              "value": 8
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "高丽",
+      "children": [
+        {
+          "name": "不明",
+          "children": [
+            {
+              "name": "不明",
+              "value": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
